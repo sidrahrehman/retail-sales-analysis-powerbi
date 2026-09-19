@@ -50,7 +50,10 @@ The Power BI dashboard provides interactive visualizations for exploring sales t
 ## SQL Analysis
 The MySQL analysis used SQL queries to examine sales, profit, categories, regions, customer segments, products, and time-based trends. Subqueries and grouped analysis were also used to identify high-performing products and categories.
 
-
+## Project Files
+- 📊 [Excel Dashboard](./EXCEL%20DASHBOARD.xls)
+- 🗄️ [SQL Analysis](./SALES_SQL.sql)
+- 📈 [Power BI Dashboard](./POWER%20BI%20ANALYSIS%20PROJECT%201.pbix)
 
 
 
