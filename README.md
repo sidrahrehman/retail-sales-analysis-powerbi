@@ -24,3 +24,31 @@ This project analyzes retail sales data to identify sales trends, profitability 
 - Examined regional performance across different product categories.
 - Used SQL queries to identify high-performing products and categories.
 - Created interactive Power BI visualizations to explore the results.
+
+## Key Insights
+- Total sales were approximately $2.33 million, with total profit of approximately $292.30K.
+- Technology generated the highest category sales at approximately $839.89K.
+- The Consumer segment generated the highest sales at approximately $1.17 million.
+- The West region generated the highest regional sales at approximately $739.81K.
+- November recorded the highest monthly sales in the dataset.
+- Copiers had the highest profit margin among the analyzed sub-categories.
+- Standard Class was the most frequently used shipping mode.
+- The analysis identified Tables as the lowest-performing sub-category based on profit.
+
+## Dashboards
+
+### Excel Dashboard
+The Excel dashboard provides an overview of sales, profit, quantity, product performance, regional performance, and customer segments.
+
+### Power BI Dashboard
+The Power BI dashboard provides interactive visualizations for exploring sales trends, profitability, categories, regions, products, and customer segments.
+
+## SQL Analysis
+The MySQL analysis used SQL queries to examine sales, profit, categories, regions, customer segments, products, and time-based trends. Subqueries and grouped analysis were also used to identify high-performing products and categories.
+
+
+
+
+
+
+
