@@ -56,3 +56,7 @@ The MySQL analysis used SQL queries to examine sales, profit, categories, region
 
 
 
+
+
+
+
