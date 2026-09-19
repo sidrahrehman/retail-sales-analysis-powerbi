@@ -43,6 +43,8 @@ The Excel dashboard provides an overview of sales, profit, quantity, product per
 
 ### Power BI Dashboard
 The Power BI dashboard provides interactive visualizations for exploring sales trends, profitability, categories, regions, products, and customer segments.
+<img width="577" height="338" alt="image" src="https://github.com/user-attachments/assets/e40a9c25-668e-4ccd-bf5c-56d9cac3be54" />
+
 
 ## SQL Analysis
 The MySQL analysis used SQL queries to examine sales, profit, categories, regions, customer segments, products, and time-based trends. Subqueries and grouped analysis were also used to identify high-performing products and categories.
