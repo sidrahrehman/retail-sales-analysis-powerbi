@@ -39,6 +39,7 @@ This project analyzes retail sales data to identify sales trends, profitability 
 
 ### Excel Dashboard
 The Excel dashboard provides an overview of sales, profit, quantity, product performance, regional performance, and customer segments.
+<img width="809" height="307" alt="image" src="https://github.com/user-attachments/assets/2d4bddc4-52e3-4396-89e6-e8740870d4f5" />
 
 ### Power BI Dashboard
 The Power BI dashboard provides interactive visualizations for exploring sales trends, profitability, categories, regions, products, and customer segments.
